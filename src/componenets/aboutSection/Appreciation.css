@@ -1,0 +1,24 @@
+.appr{
+    margin: 4em auto 0;
+    padding-bottom: 4em;
+}
+.appr-topic{
+    font-size: 46px;
+    color: #0f9d58;
+    margin: 2em auto;
+}
+.appr-img{
+    margin: 1em;
+    background:
+        linear-gradient(to right, #20c679 3px, transparent 3px) 0 100%,
+        linear-gradient(to left, #20c679 3px, transparent 3px) 100% 0,
+        linear-gradient(to bottom, #20c679 3px, transparent 3px) 100% 0,
+        linear-gradient(to top, #20c679 3px, transparent 3px) 0 100%;
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    border-radius: 4px;
+}
+.appr-img img{
+    width: 20em;
+    padding: 1em 0.2em;
+}
